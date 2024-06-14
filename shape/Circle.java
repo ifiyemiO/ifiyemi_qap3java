@@ -1,4 +1,3 @@
-// Circle class
 public class Circle extends Shape {
     private double radius = 1.0;
 
